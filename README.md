@@ -11,6 +11,7 @@ klik sini jika kalian malas...!!!
   - [Windows.exe](https://github.com/Xnuvers007/KBBI-AppEXE/#windows-exe)
   - [Linux.exe](https://github.com/Xnuvers007/KBBI-AppEXE/#linux-exe)
   - [Copyright](https://github.com/Xnuvers007/KBBI-AppEXE/#copyright)
+  - [Tampilan](https://github.com/Xnuvers007/KBBI-AppEXE/#tampilan)
 
 # Masalah
 
@@ -98,6 +99,16 @@ jika menggunakan linux tanpa python (gunakan exe) :
   8. sudo apt-get install wine32 win64 winbind winetricks
   9. wine --version
   10. wine KBBI.exe
+
+# Tampilan
+
+![image](https://user-images.githubusercontent.com/62522733/172957599-56878bdc-1359-4409-8405-c89bf7021217.png)
+
+![image](https://user-images.githubusercontent.com/62522733/172957843-269d2816-6bd4-4a88-8045-8d84eb0796c8.png)
+
+![image](https://user-images.githubusercontent.com/62522733/172957915-2ac9660c-6364-41f4-a9fc-2b72e7655146.png)
+
+![image](https://user-images.githubusercontent.com/62522733/172957956-2e3a7e40-4e0f-4b60-837c-76bd04e29bbd.png)
 
 # Copyright
 
