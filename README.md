@@ -2,6 +2,16 @@
 
 ini adalah KBBI (Kamus Besar Bahasa Indonesia)
 
+klik sini jika kalian malas...!!!
+
+  - [Masalah](https://github.com/Xnuvers007/KBBI-AppEXE/#masalah)
+  - [gpedit.msc](https://github.com/Xnuvers007/KBBI-AppEXE/#gpeditmsc)
+  - [Penggunaan Aplikasi](https://github.com/Xnuvers007/KBBI-AppEXE/#penggunaan-aplikasi)
+  - [Windows, Linux, Termux dengan python](https://github.com/Xnuvers007/KBBI-AppEXE/#windows-linux-termux-python)
+  - [Windows.exe](https://github.com/Xnuvers007/KBBI-AppEXE/#windows-exe)
+  - [Linux.exe](https://github.com/Xnuvers007/KBBI-AppEXE/#linux-exe)
+  - [Copyright](https://github.com/Xnuvers007/KBBI-AppEXE/#copyright)
+
 # Masalah
 
 jika kalian mengalami masalah saat membuka Applikasi nya seperti ini :
